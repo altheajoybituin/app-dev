@@ -14,4 +14,4 @@ My first repository
 
 **3. SpongeBob Squarepants**
 
-> **[SpongeBob Sqaurepants](https://en.wikipedia.org/wiki/SpongeBob_SquarePants)** is a happy sea sponge who lives in a pineapple under the sea and wors ar rge Krust Crab restaurant.
+> **[SpongeBob Sqaurepants](https://en.wikipedia.org/wiki/SpongeBob_SquarePants)** is a happy sea sponge who lives in a pineapple under the sea and works at the Krust Crab restaurant.
